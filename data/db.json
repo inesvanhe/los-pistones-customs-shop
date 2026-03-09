@@ -1,0 +1,173 @@
+{
+  "categories": [
+    {
+      "id": "performance-tuning",
+      "name": "Performance-Tuning"
+    },
+    {
+      "id": "body-wrap",
+      "name": "Body & Wrap"
+    },
+    {
+      "id": "custom-build",
+      "name": "Custom Build"
+    },
+    {
+      "id": "detailling",
+      "name": "Detailling"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "Sport-Luftfilter",
+      "price": 49.99,
+      "description": "Verbessert die Luftzufuhr und steigert die Leistung Ihres Fahrzeugs.",
+      "category": "performance-tuning"
+    },
+    {
+      "id": 2,
+      "name": "Sportauspuff",
+      "price": 299.99,
+      "description": "Verbessert die Leistung Ihres Fahrzeugs und reduziert den Lärmpegel.",
+      "category": "performance-tuning"
+    },
+    {
+      "id": 3,
+      "name": "Chiptuning-Kit",
+      "price": 199.99,
+      "description": "Optimiert die Motorleistung und erhöht die Effizienz Ihres Fahrzeugs.",
+      "category": "performance-tuning"
+    },
+    {
+      "id": 4,
+      "name": "Bodykit",
+      "price": 599.99,
+      "description": "Verbessert das Aussehen Ihres Fahrzeugs und erhöht die Aerodynamik.",
+      "category": "body-wrap"
+    },
+    {
+      "id": 5,
+      "name": "Carbon-Heckspoiler",
+      "price": 189.99,
+      "description": "Verbessert die Aerodynamik und das Aussehen Ihres Fahrzeugs.",
+      "category": "custom-build"
+    },
+    {
+      "id": 6,
+      "name": "Folie (pro Meter)",
+      "price": 29.99,
+      "description": "Perfekt für die individuelle Gestaltung Ihres Fahrzeugs.",
+      "category": "body-wrap"
+    },
+    {
+      "id": 7,
+      "name": "Sport-Federn",
+      "price": 149.99,
+      "description": "Verbessert die Fahrzeugdynamik und das Fahren auf der Straße.",
+      "category": "custom-build"
+    },
+    {
+      "id": 8,
+      "name": "Alufelgen (Satz)",
+      "price": 799.99,
+      "description": "Verbessert das Aussehen Ihres Fahrzeugs und erhöht die Aerodynamik.",
+      "category": "custom-build"
+    },
+    {
+      "id": 9,
+      "name": "Sport-Lenkrad",
+      "price": 129.99,
+      "description": "Verbessert das Fahrgefühl und die Kontrolle Ihres Fahrzeugs.",
+      "category": "custom-build"
+    },
+    {
+      "id": 10,
+      "name": "Schalensitz",
+      "price": 349.99,
+      "description": "Verbessert den Komfort und das Aussehen Ihres Fahrzeugs.",
+      "category": "custom-build"
+    }
+  ],
+
+  "services": [
+    {
+      "id": 1,
+      "name": "Chiptuning",
+      "price": 299.99,
+      "description": "Optimiert die Motorleistung und erhöht die Effizienz Ihres Fahrzeugs.",
+      "category": "performance-tuning"
+    },
+    {
+      "id": 2,
+      "name": "Sportauspuff-Installation",
+      "price": 199.99,
+      "description": "Verbessert die Leistung Ihres Fahrzeugs und reduziert den Lärmpegel.",
+      "category": "performance-tuning"
+    },
+    {
+      "id": 3,
+      "name": "Luftfilter-Upgrade",
+      "price": 79.99,
+      "description": "Verbessert die Luftzufuhr und steigert die Leistung Ihres Fahrzeugs.",
+      "category": "performance-tuning"
+    },
+    {
+      "id": 4,
+      "name": "Motortuning",
+      "price": 499.99,
+      "description": "Optimiert die Motorleistung und erhöht die Effizienz Ihres Fahrzeugs.",
+      "category": "performance-tuning"
+    },
+    {
+      "id": 5,
+      "name": "Fahrwerk-Setup",
+      "price": 349.99,
+      "description": "Verbessert die Fahrzeugdynamik und das Fahren auf der Straße.",
+      "category": "custom-build"
+    },
+    {
+      "id": 6,
+      "name": "Vollfolierung",
+      "price": 999.99,
+      "description": "Verbessert das Aussehen Ihres Fahrzeugs.",
+      "category": "body-wrap"
+    },
+    {
+      "id": 7,
+      "name": "Teilfolierung",
+      "price": 299.99,
+      "description": "Verbessert das Aussehen Ihres Fahrzeugs.",
+      "category": "body-wrap"
+    },
+    {
+      "id": 8,
+      "name": "Bodykit-Montage",
+      "price": 399.99,
+      "description": "Verbessert das Aussehen Ihres Fahrzeugs und erhöht die Aerodynamik.",
+      "category": "body-wrap"
+    },
+    {
+      "id": 9,
+      "name": "Innenreinigung",
+      "price": 99.99,
+      "description": "Verbessert das Aussehen Ihres Fahrzeugs.",
+      "category": "detailling"
+    },
+    {
+      "id": 10,
+      "name": "Politur & Versiegelung",
+      "price": 149.99,
+      "description": "Verbessert das Aussehen Ihres Fahrzeugs.",
+      "category": "detailling"
+    },
+    {
+      "id": 11,
+      "name": "Keramikbeschichtung",
+      "price": 399.99,
+      "description": "Verbessert das Aussehen Ihres Fahrzeugs.",
+      "category": "detailling"
+    }
+  ]
+}
