@@ -3,6 +3,7 @@ import dotenv from "dotenv";
 
 // Feature-Routen importieren
 import productsRoutes from "./features/products/products.routes.js";
+import servicesRoutes from "./features/services/services.routes.js";
 
 dotenv.config();
 
@@ -13,6 +14,7 @@ app.use(express.json());
 
 // Feature-Routen
 app.use("/products", productsRoutes);
+app.use("/services", servicesRoutes);
 
 // Fallback-Route für nicht gefundene Endpunkte
 app.use((req, res) => {
