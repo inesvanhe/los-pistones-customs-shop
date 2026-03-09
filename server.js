@@ -13,6 +13,9 @@ const app = express();
 // Middleware
 app.use(express.json());
 
+// Frontend
+app.use(express.static("frontend"));
+
 // Feature-Routen
 app.use("/products", productsRoutes);
 app.use("/services", servicesRoutes);
